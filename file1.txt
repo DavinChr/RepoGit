@@ -1,1 +1,3 @@
 isi pertama file 1
+
+Manambahkan baris baru dari remote (No 7)
