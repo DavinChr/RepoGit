@@ -1,0 +1,6 @@
+isi pertama file 1
+
+Manambahkan baris baru dari remote (No 7)
+
+
+Menambahkan baris baru dari lokal (No 9)
