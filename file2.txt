@@ -2,3 +2,5 @@ isi pertama file 2
 
 
 Manambahkan baris baru dari remote (No 7)
+
+Menambahkan baris baru dari lokal (No 9)
